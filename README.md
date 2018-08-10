@@ -1,5 +1,5 @@
 ## Diş Hekimi Hüseyin Bayramoğlu
 <br>
 ```sh
-$ Siteden Canlı Görünüm http://dishekimihuseyinbayramoglu.com/
+Canlı Görünüm http://dishekimihuseyinbayramoglu.com/
 ```
